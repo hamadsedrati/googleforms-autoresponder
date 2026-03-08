@@ -1,4 +1,4 @@
-# Google Forms Auto Generator
+# Google Forms Auto Responder
 
 A Python script that automatically submits randomized responses to a Google Form.
 

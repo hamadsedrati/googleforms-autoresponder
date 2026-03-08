@@ -3,6 +3,7 @@
 A Python script that automatically submits randomized responses to a Google Form.
 
 The script generates realistic survey answers and sends them directly to the form's `formResponse` endpoint, allowing you to simulate multiple participants.
+(still under development so expect bugs and :p)
 
 ## Features
 
